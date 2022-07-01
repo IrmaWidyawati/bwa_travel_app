@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56128016289",
+    "project_id": "airplane-art221-076067",
+    "storage_bucket": "airplane-art221-076067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56128016289:android:4039fd0d76df00226f85e0",
+        "android_client_info": {
+          "package_name": "com.irma.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56128016289-ml640tegjhff7q5ao8lp5k3prs317ht8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBTLCksaafFWUnzbmblOv3S8Kjgr4LWJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56128016289-ml640tegjhff7q5ao8lp5k3prs317ht8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
